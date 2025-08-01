@@ -16,15 +16,6 @@ This project utilizes a dataset containing readings from 20 environmental sensor
 
 ## ✅ Prerequisites
 
-Ensure you have Python 3.7+ inst packages
-└── README.md # Project overview and instructions
-
-
-
----
-
-## ✅ Prerequisites
-
 Ensure you have Python 3.7+ installed. Then install required packages:
 
 ```bash
