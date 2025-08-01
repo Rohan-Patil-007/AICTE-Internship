@@ -14,14 +14,9 @@ This project utilizes a dataset containing readings from 20 environmental sensor
 
 ---
 
-## 📁 Project Structure
+## ✅ Prerequisites
 
-📦 Smart-Irrigation-ML
-├── Smart_irrigation_Aicte.ipynb # Main notebook for model training
-├── app.py # Streamlit web app code
-├── Farm_Irrigation_System.pkl # Trained ML model (output of notebook)
-├── irrigation_machine.csv # Dataset used for training
-├── requirements.txt # Required Python packages
+Ensure you have Python 3.7+ inst packages
 └── README.md # Project overview and instructions
 
 
